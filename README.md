@@ -1,5 +1,7 @@
 # Tip Calculator
 
+This program calculates initial cost, and then adds in state tax and a tip percentage to determine a final bill.
+
 ### Controller Code
 
 ```
