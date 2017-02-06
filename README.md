@@ -2,6 +2,9 @@
 
 This program calculates initial cost, and then adds in state tax and a tip percentage to determine a final bill.
 
+Websites used
+* https://taxfoundation.org/state-and-local-sales-tax-rates-2016/
+
 ### Controller Code
 
 ```
